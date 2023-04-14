@@ -1,0 +1,38 @@
+ul{
+    list-style-type: none;
+    color: rgb(67, 38, 38);
+    margin-right: 60%;
+}
+ul h1{
+    font-size: 2rem;
+    border-bottom: 1px solid red;
+    border-width: 5px;
+}
+li{
+    background-color: rgb(44, 77, 66);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 1px solid aqua;
+    border-radius: 10px;
+    margin-right: 120px;
+    color: beige;
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+button {
+    cursor: pointer;
+    padding:4px 10px 5px 10px ;
+    margin-left:100px;
+    border-radius: 12px;
+    color: white;
+    background-color: black;
+    font-weight: bold;
+
+}
+button:hover{
+    background-color: red;
+}
+h2{
+    color: red;
+    margin-right: 90%;
+}
